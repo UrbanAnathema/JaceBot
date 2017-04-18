@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>EXP</name>
+      <longname>Example Set</longname>
+      <settype>Example</settype>
+      <releasedate>1999-01-30</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Example</name>
+      <set rarity="Uncommon" muId="12345" num="1">EXP</set>
+      <color>W</color>
+      <manacost>W</manacost>
+      <cmc>1</cmc>
+      <type>Creature - Human Advisor</type>
+      <pt>0/1</pt>
+      <tablerow>2</tablerow>
+      <text>T: Target creature gains +1/+0 until end of turn.</text>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
